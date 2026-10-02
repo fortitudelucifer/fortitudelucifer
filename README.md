@@ -19,6 +19,8 @@ My path into AI began with an undergraduate thesis applying **machine learning t
 
 **Breeding-trait Prediction → Industrial Software → Computer Vision → Multimodal AI → Agents**
 
+✍️ I also write in Chinese on my **WeChat Official Account（ForCifer）** — learning, projects, and personal reflections.
+
 ## 🔬 Selected Work
 
 <table>
