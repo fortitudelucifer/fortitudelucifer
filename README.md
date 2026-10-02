@@ -15,7 +15,7 @@ Multimodal AI Agents · Reliable Evaluation</p>
 
 ## 👋 About Me
 
-My path into AI began with an undergraduate thesis applying **machine learning to breeding-trait prediction**. I went on to build **backend and frontend systems for industrial production**, then expanded into **computer vision** and **multimodal AI**. My recent work focuses on **AI agents for legal applications**, bringing together statistical thinking, software engineering, and model evaluation.
+My path into AI began with an undergraduate thesis applying **machine learning to breeding-trait prediction**. I went on to build **backend and frontend systems for industrial production**, then expanded into **computer vision** and **multimodal AI**. My recent work focuses on **AI agents for legal applications** (not open-sourced due to IP), bringing together statistical thinking, software engineering, and model evaluation.
 
 **Breeding-trait Prediction → Industrial Software → Computer Vision → Multimodal AI → Agents**
 
