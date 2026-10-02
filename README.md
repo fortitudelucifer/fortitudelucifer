@@ -51,7 +51,7 @@ My path into AI began with an undergraduate thesis applying **machine learning t
 <td width="50%" valign="top">
 <h3>🧠 <a href="https://github.com/fortitudelucifer/Illustrated-GRPO">Illustrated-GRPO</a></h3>
 <p><b>LLM post-training · Reproduction</b></p>
-<p><em>Under active refinement.</em></p>
+<p><em>Experiments documented · Further investigation ongoing</em></p>
 <p>Explore GRPO from mathematical intuition to Qwen training experiments and evaluation.</p>
 <ul>
 <li>Five saved training experiments with base-versus-trained evaluation.</li>
