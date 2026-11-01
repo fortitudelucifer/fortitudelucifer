@@ -17,7 +17,7 @@ Multimodal AI Agents · Reliable Evaluation</p>
 
 My path into AI began with an undergraduate thesis applying **machine learning to breeding-trait prediction**. I went on to build **backend and frontend systems for industrial production**, then expanded into **computer vision** and **multimodal AI**. My recent work focuses on **AI agents for legal applications** (not open-sourced due to IP), bringing together statistical thinking, software engineering, and model evaluation.
 
-**Breeding-trait Prediction → Industrial Software → Computer Vision → Multimodal AI → Agents**
+**Breeding-trait Prediction → Industrial Software → Computer Vision → Multimodal AI → Agents → Reliable System**
 
 ✍️ I also write in Chinese on my **WeChat Official Account (ForCifer)** — learning, projects, and personal reflections.
 
